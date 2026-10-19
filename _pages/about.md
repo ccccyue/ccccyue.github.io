@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div style="height: 2em;"></div>
 
 I am a CRM–Laval Postdoctoral Fellow in the Department of Mathematics and Statistics at Université Laval, under the supervision of Professors Marcu-Antone Orsoni, Damir Kinzebulatov, and Alexandre Girouard. I received my Ph.D. in June 2025 from Memorial University, where I worked with Professor Jie Xiao.
 
