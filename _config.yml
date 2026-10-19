@@ -34,7 +34,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : "http://arxiv.org/a/yue_c_1" URL - Update with the correct link to your profile
+  arxiv            : "http://arxiv.org/a/yue_c_1" #URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/chengjun-yue-990099298"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
