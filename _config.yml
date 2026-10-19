@@ -24,11 +24,11 @@ repository               : "ccccyue/ccccyue.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Chengjun Yue"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoctoral Fellow"
+  location         : "Québec, Canada"
+  employer         : "Université Laval"
   uri              : # URL
   email            : "none@example.org" 
 
